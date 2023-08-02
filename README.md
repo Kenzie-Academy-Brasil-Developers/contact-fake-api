@@ -4,7 +4,7 @@ Base URL: https://contact-fake-api.onrender.com
 
 ## ROTAS
 
-### Frutas /emails POST
+### Salvar email /emails POST
 
 Padrão de corpo
 
