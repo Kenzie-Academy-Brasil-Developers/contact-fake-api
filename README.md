@@ -1,6 +1,6 @@
-Uma fake API para uma aplicação de sacolão
+Uma fake API para envio de email
 
-Base URL: https://fruit-fake-api.onrender.com
+Base URL: [https://fruit-fake-api.onrender.com](https://contact-fake-api.onrender.com)
 
 ## ROTAS
 
